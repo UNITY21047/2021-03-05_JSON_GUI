@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WR6yxseRXwT+jWsqZgm6BOk/U+mXkC8RK+xHD6vKschlqoSqtSj6Yh1x85ccWOppWEWpPY9OBUbNVgasyuHEHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\werty\\Downloads\\assets\\projects\\2021-03-05_JSON_GUI\\2021-03-05_JSON_GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\werty\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\werty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
