@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace _2021_03_05_JSON_GUI
 {
@@ -6,7 +7,7 @@ namespace _2021_03_05_JSON_GUI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
