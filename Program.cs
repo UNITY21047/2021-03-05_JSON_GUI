@@ -26,7 +26,19 @@ namespace _2021_03_05_JSON_GUI
 
             if(!Directory.Exists(@"./maps")) Directory.CreateDirectory(@".maps");
 
-            if(Int32.Parse()){ for (int i = 0; i < Int32.Parse(args[0]); i++){}
+            try
+            {
+                Int32.Parse(args[1]);
+
+                for (int i = 0; i < Int32.Parse(args[1]); i++)
+                {
+
+                }
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e);
+            }
         }
     }
 }
