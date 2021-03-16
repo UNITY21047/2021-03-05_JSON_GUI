@@ -2,4 +2,5 @@ obj/
 bin/
 .vscode/
 out_win/
+out_lin/
 maps/

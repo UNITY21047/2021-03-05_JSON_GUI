@@ -6,4 +6,8 @@
     <RootNamespace>_2021_03_05_JSON_GUI</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
 </Project>
